@@ -1,2 +1,2 @@
 # jeanpier-webpage
-Repository of my personal wep app
+Repository of my personal web app
